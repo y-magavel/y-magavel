@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Write Code Every Day
 - 🌱 I’m currently learning AWS
 
-#### Licenses and certifications
+#### ✏️ Licenses and certifications
 
 - Fundamental Information Technology Engineer Examination(基本情報技術者試験) / November 2019
 - Information Technology Passport Examination(ITパスポート試験) / September 2019
