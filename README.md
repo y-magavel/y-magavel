@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on Write Code Every Day
 - 🌱 I’m currently learning AWS
 - 🖥 I’m using Mac and HHKB
+- 🐎 My motto is "Ride a horse, follow a person"
 
 #### Licenses and certifications ✏️
 
