@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning AWS
 - 🖥 I’m using Mac and HHKB
 - 🐎 My motto is "Ride a horse, follow a person"
+<!-- - 🧞‍♂️  -->
 
 #### Licenses and certifications ✏️
 
@@ -15,8 +16,10 @@
   - HTML, CSS, JavaScript, Java, PHP
 - frameworks
   - jQuery, Laravel
-- other
+- others
   - AWS, MySQL, Linux, shell(bash)
+- tools
+  - Slack, Chatwork, Discord, Zoom, Backlog, Cacoo, Todoist, Trello, TablePlus, Google Workspace, Excel, Workplace
 
 <!-- [![](https://raw.githubusercontent.com/y-magavel/y-magavel/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
 [![](https://raw.githubusercontent.com/y-magavel/y-magavel/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
