@@ -11,7 +11,7 @@
 - Fundamental Information Technology Engineer Examination(基本情報技術者試験) / November 2019
 - Information Technology Passport Examination(ITパスポート試験) / September 2019
 
-#### Skills
+#### Skills 🏹
 - languages
   - HTML, CSS, JavaScript, Java, PHP
 - frameworks
