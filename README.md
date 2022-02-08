@@ -8,6 +8,7 @@
 
 #### Licenses and certifications ✏️
 
+- AWS Certified Solutions Architect - Associate / October 2021
 - Fundamental Information Technology Engineer Examination(基本情報技術者試験) / November 2019
 - Information Technology Passport Examination(ITパスポート試験) / September 2019
 
