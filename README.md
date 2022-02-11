@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🏻
 
 - 🔭 I’m currently working on Write Code Every Day
 - 🌱 I’m currently learning AWS
@@ -6,12 +6,13 @@
 - 🐎 My motto is "Ride a horse, follow a person"
 <!-- - 🧞‍♂️  -->
 
-#### Licenses and certifications ✏️
+#### Licenses and certifications 🏅
 
+- AWS Certified Solutions Architect - Associate / October 2021
 - Fundamental Information Technology Engineer Examination(基本情報技術者試験) / November 2019
 - Information Technology Passport Examination(ITパスポート試験) / September 2019
 
-#### Skills 🏹
+#### Languages and Tools 🧰
 - languages
   - HTML, CSS, JavaScript, Java, PHP
 - frameworks
