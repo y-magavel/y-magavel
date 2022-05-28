@@ -1,45 +1,23 @@
-### Hi there 👋🏻
+<h1 align="center">Hi 👋🏻, I'm a Software Engineer from Japan</h1>
+<h3 align="center">Please call me Magavel :^)</h3>
 
-- 🔭 I’m currently working on Write Code Every Day
-- 🌱 I’m currently learning AWS
-- 🖥 I’m using Mac and HHKB
-- 🐎 My motto is "Ride a horse, follow a person"
-<!-- - 🧞‍♂️  -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=y-magavel&label=Profile%20views&color=0e75b6&style=flat" alt="y-magavel" /> </p>
 
-#### Licenses and certifications 🏅
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=y-magavel" alt="y-magavel" /></a> </p>
 
-- AWS Certified Solutions Architect - Associate / October 2021
-- Fundamental Information Technology Engineer Examination(基本情報技術者試験) / November 2019
-- Information Technology Passport Examination(ITパスポート試験) / September 2019
+- 📝 I regularly write articles on [https://zenn.dev/magavel](https://zenn.dev/magavel)
 
-#### Languages and Tools 🧰
-- languages
-  - HTML, CSS, JavaScript, Java, PHP
-- frameworks
-  - jQuery, Laravel
-- others
-  - AWS, MySQL, Linux, shell(bash)
-- tools
-  - VScode, Slack, Chatwork, Discord, Zoom, Backlog, Cacoo, Todoist, Trello, TablePlus, Google Workspace, Excel, Workplace
+<h3 align="left">Licenses and certifications:</h3>
+<ul align="left">
+  <li>2022/6 IPA AP(expected)</li>
+  <li>2021/10 AWS SAA</li>
+  <li>2019/11 IPA FE</li>
+  <li>2019/9 IPA IP</li>
+</ul>
 
-<!-- [![](https://raw.githubusercontent.com/y-magavel/y-magavel/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<!-- [![](https://raw.githubusercontent.com/y-magavel/y-magavel/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
-<!-- [![](https://raw.githubusercontent.com/y-magavel/y-magavel/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
-<!-- [![](https://raw.githubusercontent.com/y-magavel/y-magavel/main/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
-<!-- [![](https://raw.githubusercontent.com/y-magavel/y-magavel/main/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=y-magavel&show_icons=true&locale=en" alt="y-magavel" /></p>
 
-<!--
-**y-magavel/y-magavel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=y-magavel&" alt="y-magavel" /></p>
