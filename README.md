@@ -9,7 +9,7 @@
 
 <h3 align="left">Licenses and certifications:</h3>
 <ul align="left">
-  <li>2022/6 IPA AP(expected)</li>
+  <li>2022/6 IPA AP</li>
   <li>2021/10 AWS SAA</li>
   <li>2019/11 IPA FE</li>
   <li>2019/9 IPA IP</li>
