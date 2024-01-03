@@ -17,6 +17,7 @@ I regularly write articles on https://zenn.dev/magavel
 
 ## 🎓 Licenses and Certifications
 
+### IPA Database Specialist / 2023.12
 ### IPA Applied Information Technology Engineer / 2022.06
 ### AWS Certified Solutions Architect - Associate / 2021.10
 ### IPA Fundamental Information Technology Engineer / 2019.11
