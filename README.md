@@ -17,12 +17,12 @@ I regularly write articles on https://zenn.dev/magavel
 
 ## 🎓 Licenses and Certifications
 
-### AWS Certified Solutions Architect - Professional / 2024.10
-### IPA Database Specialist / 2023.12
-### IPA Applied Information Technology Engineer / 2022.06
-### AWS Certified Solutions Architect - Associate / 2021.10
-### IPA Fundamental Information Technology Engineer / 2019.11
-### IPA Information Technology Passport / 2019.09
+### AWS Certified Solutions Architect - Professional / Oct 2024
+### IPA Database Specialist / Dec 2023
+### IPA Applied Information Technology Engineer / Jun 2022
+### AWS Certified Solutions Architect - Associate / Oct 2021
+### IPA Fundamental Information Technology Engineer / Nov 2019
+### IPA Information Technology Passport / Sep 2019
 
 <!--
 ## 📊 GitHub Stats
